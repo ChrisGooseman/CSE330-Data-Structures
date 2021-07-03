@@ -1,7 +1,7 @@
 /* 
  * Author: Christopher Guzman
  * Assignment: Lab 6 - Part 1
- * File: lab5_2.cpp
+ * File: lab6_1.cpp
  * Course: CSE330 - Murphy
  */ 
 
